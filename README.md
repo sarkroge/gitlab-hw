@@ -4,7 +4,6 @@
 
 ### 1. Развёрнут GitLab через Vagrant
 
-Скриншот:  
 ![](img/01-gitlab-main.png)
 
 ### 2. Создан проект в GitLab
